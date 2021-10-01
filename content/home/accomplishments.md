@@ -59,13 +59,6 @@ item:
   title: "Sports medicine"
   url: ""   
 - date_end: ""
-  date_start: "2019-01-30"
-  description: "French course for medical use"
-  organization: "HHU"
-  organization_url: https://www.hhu.de
-  title: "French course B1"
-  url: ""
-- date_end: ""
   date_start: "2018-01-30"
   description: "General surgery topics on weekly basis"
   organization: "HHU"
