@@ -30,7 +30,6 @@ item:
   organization_url: https://www.ukd.de
   title: "Ultrasonic Basic Course"
   url: ""
-item:  
 - date_end: "2019-03-30"
   date_start: "2019-03-01"
   description: "Basics in ear accupuncture and its working mechanism"
@@ -38,7 +37,6 @@ item:
   organization_url: https://www.balancierte-ohrakupunktur.de
   title: "Seeber Balanced ear accupuncture"
   url: ""
-item:  
 - date_end: "2019-10-01"
   date_start: "2020-02-01"
   description: "Basic course of Python 3.0 for medical data analysis"
@@ -46,7 +44,6 @@ item:
   organization_url: https://www.hhu.de
   title: "Introduction to Python medical data analysis"
   url: ""
-item:  
 - date_end: "2019-04-01"
   date_start: "2019-07-01"
   description: "Teamwork workshop. Analysing team players and their characteristics in order to       find your personal position in a team"
