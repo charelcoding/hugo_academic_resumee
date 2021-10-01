@@ -22,47 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Nursing Internship - 6 weeks"
-    company: "Hôpitaux Robert Schuman Kirchberg"
-    company_url: 'https://www.hopitauxschuman.lu'
-    company_logo: org-gc
-    location: Luxembourg, Luxembourg
-    date_start: 'July 2016'
-    date_end: 'August 2016'
-    description: |2-
+- title: "Nursing Internship - 6 weeks"
+  company: "Hôpitaux Robert Schuman Kirchberg"
+  company_url: 'https://www.hopitauxschuman.lu'
+  company_logo: org-gc
+  location: Luxembourg, Luxembourg
+  date_start: '2016-07-01'
+  date_end: '2016-08-01'
+  description: |2-
         Responsibilities include:
         
         * Emergencies 
         * Blood pressure control
-        * Patients care
-experience:        
-  - title: "Nursing internship - 6 weeks"
-    company: "Tengeru District Hospital "
-    company_url: ''
-    company_logo: org-x
-    location: Arusha, Tansania
-    date_start: 'July 2018'
-    date_end: 'August 2018'
-    description: "Mainly obstetrics and medical check-ups"
-experience:    
-  - title: "Medical internship (Famulatur) - 2 weeks"
-    company: "Tengeru District Hospital "
-    company_url: ''
-    company_logo: org-x
-    location: Arusha, Tansania
-    date_start: 'August 2018'
-    date_end: 'August 2018'
-    description: "Gynecology including assistance on C-sections but also other surgery like amputations"
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+        * Patients care  
+- title: "Nursing internship - 6 weeks"
+  company: "Tengeru District Hospital "
+  company_url: ''
+  company_logo: org-x
+  location: Arusha, Tansania
+  date_start: '2018-07-01'
+  date_end: '2018-08-01'
+  description: "Mainly obstetrics and medical check-ups" 
+- title: "Medical internship (Famulatur) - 2 weeks"
+  company: "Tengeru District Hospital "
+  company_url: ''
+  company_logo: org-x
+  location: Arusha, Tansania
+  date_start: '2018-08-01'
+  date_end: '2018-09-01'
+  description: "Gynecology including assistance on C-sections but also other surgery like amputations"
+- title: CEO
+  company: GenCoin
+  company_url: ''
+  company_logo: org-gc
+  location: California
+  date_start: '2021-01-01'
+  date_end: ''
+  description: |2-
+      Responsibilities include:
         
         * Analysing
         * Modelling
