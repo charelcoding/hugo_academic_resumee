@@ -79,6 +79,14 @@ item:
   organization_url: https://www.malteser.de
   title: "First aid course"
   url: ""
+- date_end: ""
+  date_start: "2021-03-01"
+  description: "Surgery, diagnosis and therapy in oral maxillofacial surgery (in German:MKG)"
+  organization: "Prof. Dr. Dr. med. dent. Jörg Handschel"
+  organization_url: http://www.klinikamkaiserteich.de/
+  title: "Oral Maxillofacial surgery"
+  url: ""
+
 design:
   columns: '2' 
 ---
