@@ -65,6 +65,13 @@ item:
   organization_url: https://www.hhu.de
   title: "General surgery"
   url: ""
+- date_end: "2021-02-25"
+  date_start: ""
+  description: "Therapy, diagnosis and surgery in Dermatology"
+  organization: "UKD - Dermatology"
+  organization_url: http://www.ukd.de/
+  title: "Dermatology"
+  url: ""
 design:
   columns: '2' 
 ---
