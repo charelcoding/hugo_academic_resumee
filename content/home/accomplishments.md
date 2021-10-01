@@ -23,30 +23,35 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
+- date_end: "2018-04-01"
   date_start: "2018-07-01"
   description: ""
   organization: Universiätsklinikum Düsseldorf
-  organization_url: https://www.hhu.de
+  organization_url: https://www.ukd.de
   title: Ultrasonic Basic Course
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- date_end: "2019-03-30"
+  date_start: "2019-03-01"
+  description: basics in ear accupuncture and its working mechanisms
+  organization: Jan Seeber - HHU
+  organization_url: https://www.balancierte-ohrakupunktur.de
+  title: "Seeber" Balanced ear accupuncture
   url: ""
-
+- date_end: "2019-10-01"
+  date_start: "2020-02-01"
+  description: "basic course of Python 3.0 for medical data analysis"
+  organization: Dr. Daniel Dörr - HHU
+  organization_url: https://www.hhu.de
+  title: Introduction to Python medical data analysis
+  url: ""
+- date_end: "2019-04-01"
+  date_start: "2019-07-01"
+  description: "Teamwork workshop. Analysing team players and their characteristics in order to find your personal position in a team"
+  organization: Univ.-Prof. Dr. med. Matthias Schneider  - HHU
+  organization_url: https://www.ukd.de
+  title: Communication Training
+  url: ""
+  
 design:
   columns: '2' 
 ---
