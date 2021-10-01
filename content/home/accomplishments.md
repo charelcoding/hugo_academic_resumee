@@ -72,13 +72,6 @@ item:
   organization_url: http://www.ukd.de/
   title: "Dermatology"
   url: ""
-- date_end: ""
-  date_start: "2020-02-30"
-  description: "Parasitology in Germany and around the globe with a historical and modern view"
-  organization: "HHU"
-  organization_url: https://www.hhu.de
-  title: "Parasitology"
-  url: ""
 design:
   columns: '2' 
 ---
