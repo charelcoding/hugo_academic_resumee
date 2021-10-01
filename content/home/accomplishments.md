@@ -51,13 +51,14 @@ item:
   organization_url: https://www.ukd.de
   title: "Communication Coaching for medical students"
   url: ""
-- date_end: "2019-04-01"
-  date_start: "2019-07-01"
-  description: "Teamwork workshop. Analysing team players and their characteristics in order to       find your personal position in a team"
-  organization: "Univ.-Prof. Dr. med. Matthias Schneider  - UKD"
-  organization_url: https://www.ukd.de
-  title: "Communication Coaching for medical students"
-  url: ""
+- date_end: ""
+  date_start: "2017-12-30"
+  description: "Sports medicine and doping"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "Sports medicine"
+  url: ""   
+
 
 design:
   columns: '2' 
