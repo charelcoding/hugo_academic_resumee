@@ -25,7 +25,7 @@ experience:
 - title: "Nursing Internship - 6 weeks"
   company: "Hôpitaux Robert Schuman Kirchberg"
   company_url: 'https://www.hopitauxschuman.lu'
-  company_logo: org-gc
+  company_logo: 
   location: Luxembourg, Luxembourg
   date_start: '2016-07-01'
   date_end: '2016-08-01'
