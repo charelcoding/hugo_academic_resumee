@@ -34,14 +34,14 @@ experience:
         * Emergencies 
         * Blood pressure control
         * Patients care  
-  - title: Nursing internship - 6 weeks
-    company: Tengeru District Hospital 
-    company_url: ''
-    company_logo: org-x
-    location: Arusha, Tansania
-    date_start: 'July 2018'
-    date_end: 'August 2018'
-    description: "Obstetrics and medical check-ups"
+- title: "Nursing internship - 6 weeks"
+  company: "Tengeru District Hospital "
+  company_url: ''
+  company_logo: org-x
+  location: Arusha, Tansania
+  date_start: '2018-07-01'
+  date_end: '2018-08-01'
+  description: "Mainly obstetrics and medical check-ups" 
 design:
   columns: '2'
 ---
