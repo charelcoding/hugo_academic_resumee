@@ -93,8 +93,8 @@ item:
   organization_url: https://www.hhu.de
   title: "Parasitology"
   url: ""
-- date_end: "2019-02-01"
-  date_start: ""
+- date_end: ""
+  date_start: "2019-02-01"
   description: "French course for medical use"
   organization: "HHU"
   organization_url: https://www.hhu.de
