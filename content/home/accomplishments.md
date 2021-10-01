@@ -37,8 +37,8 @@ item:
   organization_url: https://www.balancierte-ohrakupunktur.de
   title: "Seeber Balanced ear accupuncture"
   url: ""
-- date_end: "2019-10-01"
-  date_start: "2020-02-01"
+- date_end: "2020-10-01"
+  date_start: "2021-02-01"
   description: "Basic course of Python 3.0 for medical data analysis"
   organization: "Dr. Daniel Dörr - HHU"
   organization_url: https://www.hhu.de
@@ -92,6 +92,13 @@ item:
   organization: "HHU"
   organization_url: https://www.hhu.de
   title: "Parasitology"
+  url: ""
+- date_end: "2019-02-01"
+  date_start: ""
+  description: "French course for medical use"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "French course B1"
   url: ""
 design:
   columns: '2' 
