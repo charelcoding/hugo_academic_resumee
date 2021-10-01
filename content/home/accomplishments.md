@@ -49,9 +49,58 @@ item:
   description: "Teamwork workshop. Analysing team players and their characteristics in order to find your personal position in a team"
   organization: "Univ.-Prof. Dr. med. Matthias Schneider  - UKD"
   organization_url: https://www.ukd.de
-  title: "Communication Training"
+  title: "Communication Coaching for medical students"
   url: ""
-  
+- date_end: ""
+  date_start: "2019-01-30"
+  description: "French course for medical use"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "French course B1"
+  url: ""
+- date_end: ""
+  date_start: "2017-12-30"
+  description: "Sports medicine and doping"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "Sports medicine"
+  url: ""    
+ - date_end: ""
+  date_start: "2018-01-30"
+  description: "General surgery topics on weekly basis"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "General surgery"
+  url: ""    
+ - date_end: ""
+  date_start: "2018-07-27"
+  description: "First aid techniques"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "First aid course"
+  url: ""    
+ - date_end: ""
+  date_start: "2020-02-30"
+  description: "Parasitology in Germany and around the globe with a historical and modern view"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "Parasitology"
+  url: ""    
+ - date_end: ""
+  date_start: "2021-03-07"
+  description: "Surgery, diagnosis and therapy in oral maxillofacial surgery (in German:MKG)"
+  organization: "Prof. Dr. Dr. med. dent. Jörg Handschel"
+  organization_url: http://www.klinikamkaiserteich.de/
+  title: "General surgery"
+  url: ""    
+ - date_end: ""
+  date_start: "2021-02-25"
+  description: "Therapy, diagnosis and surgery in Dermatology "
+  organization: "UKD - Dermatology"
+  organization_url: http://www.ukd.de/
+  title: "Dermatology"
+  url: ""  
+
 design:
   columns: '2' 
 ---
