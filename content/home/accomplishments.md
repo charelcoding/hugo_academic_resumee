@@ -26,30 +26,30 @@ item:
 - date_end: "2018-04-01"
   date_start: "2018-07-01"
   description: ""
-  organization: Universiätsklinikum Düsseldorf
+  organization: "Universiätsklinikum Düsseldorf"
   organization_url: https://www.ukd.de
-  title: Ultrasonic Basic Course
+  title: "Ultrasonic Basic Course"
   url: ""
 - date_end: "2019-03-30"
   date_start: "2019-03-01"
   description: "basics in ear accupuncture and its working mechanisms"
-  organization: Jan Seeber - HHU
+  organization: "Jan Seeber - HHU"
   organization_url: https://www.balancierte-ohrakupunktur.de
-  title: "Seeber" Balanced ear accupuncture
+  title: "Seeber Balanced ear accupuncture"
   url: ""
 - date_end: "2019-10-01"
   date_start: "2020-02-01"
   description: "basic course of Python 3.0 for medical data analysis"
-  organization: Dr. Daniel Dörr - HHU
+  organization: "Dr. Daniel Dörr - HHU"
   organization_url: https://www.hhu.de
-  title: Introduction to Python medical data analysis
+  title: "Introduction to Python medical data analysis"
   url: ""
 - date_end: "2019-04-01"
   date_start: "2019-07-01"
   description: "Teamwork workshop. Analysing team players and their characteristics in order to find your personal position in a team"
-  organization: Univ.-Prof. Dr. med. Matthias Schneider  - UKD
+  organization: "Univ.-Prof. Dr. med. Matthias Schneider  - UKD"
   organization_url: https://www.ukd.de
-  title: Communication Training
+  title: "Communication Training"
   url: ""
   
 design:
