@@ -72,6 +72,13 @@ item:
   organization_url: http://www.ukd.de/
   title: "Dermatology"
   url: ""
+- date_end: ""
+  date_start: "2018-07-27"
+  description: "First aid techniques"
+  organization: "Malteser"
+  organization_url: https://www.malteser.de
+  title: "First aid course"
+  url: ""
 design:
   columns: '2' 
 ---
