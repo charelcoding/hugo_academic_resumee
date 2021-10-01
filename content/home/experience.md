@@ -51,7 +51,7 @@ experience:
   date_end: '2018-09-01'
   description: "Gynecology including assistance on C-sections but also other surgery like amputations"
 - title: "Internship (Famulatur) - 4 weeks"
-  company: "Cabinet médical Hesperange "
+  company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
   company_url: ''
   company_logo: 
   location: Hesperange Luxembourg
@@ -62,7 +62,7 @@ experience:
         * standard examinations, diagnostic and therapy in general practice
         * to deepen my knowledge in ultrasonic
         * perform and interpret cardiological examinations 
-- title: "Hospital internship in surgery and emergency department - 6 weeks"
+- title: "Hospital internship in surgery and emergency department- Dr. Boulmont - 6 weeks"
   company: "Medical Center Emile Mayrisch"
   company_url: 'https://www.hopitauxschuman.lu'
   company_logo: 
@@ -72,9 +72,20 @@ experience:
   description: |2-
         Responsibilities include:
         * Examination and therapy of emergency patients
-        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology, orthopedics and angiology
+        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology, orthopedics, otolaryngology and angiology
         * Assistent in medical round
-
+- title: "Internship (Famulatur) General practice - 4 weeks"
+  company: "Medical practice - Dr. Marina Becker"
+  company_url: ''
+  company_logo: 
+  location: Düsseldorf, Germany
+  date_start: '2021-03-01'
+  date_end: '2021-04-01'
+  description: |2-
+        Learned skills in:
+        * examination and therapy
+        * blood collection and its interpretation 
+        * Organize and perform COVID-19 vaccinations on a large scale using my own digital infrastructure
 design:
   columns: '2'
 ---
