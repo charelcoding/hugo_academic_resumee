@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Nursing Internship - 6 weeks
-    company: Hôpitaux Robert Schuman Kirchberg
+  - title: "Nursing Internship - 6 weeks"
+    company: "Hôpitaux Robert Schuman Kirchberg"
     company_url: 'https://www.hopitauxschuman.lu'
     company_logo: org-gc
     location: Luxembourg, Luxembourg
@@ -35,24 +35,25 @@ experience:
         * Emergencies 
         * Blood pressure control
         * Patients care
-        
-  - title: Nursing internship - 6 weeks
-    company: Tengeru District Hospital 
+experience:        
+  - title: "Nursing internship - 6 weeks"
+    company: "Tengeru District Hospital "
     company_url: ''
     company_logo: org-x
     location: Arusha, Tansania
     date_start: 'July 2018'
     date_end: 'August 2018'
-    description: Mainly obstetrics and medical check-ups
-    
-  - title: Medical internship (Famulatur) - 2 weeks
-    company: Tengeru District Hospital 
+    description: "Mainly obstetrics and medical check-ups"
+experience:    
+  - title: "Medical internship (Famulatur) - 2 weeks"
+    company: "Tengeru District Hospital "
     company_url: ''
     company_logo: org-x
     location: Arusha, Tansania
     date_start: 'August 2018'
     date_end: 'August 2018'
-    description: Gynecology including assistance on C-sections but also other surgery like amputations
+    description: "Gynecology including assistance on C-sections but also other surgery like amputations"
+experience:
   - title: CEO
     company: GenCoin
     company_url: ''
