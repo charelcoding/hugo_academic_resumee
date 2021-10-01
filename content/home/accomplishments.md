@@ -87,7 +87,7 @@ item:
   title: "Oral Maxillofacial surgery"
   url: ""
 - date_end: ""
-  date_start: "2020-02-30"
+  date_start: "2020-02-01"
   description: "Parasitology in Germany and around the globe with a historical and modern view"
   organization: "HHU"
   organization_url: https://www.hhu.de
