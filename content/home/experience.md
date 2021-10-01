@@ -55,14 +55,26 @@ experience:
   company_url: ''
   company_logo: 
   location: Hesperange Luxembourg
-  date_start: '2018-08-01'
-  date_end: '2018-09-01'
+  date_start: '2020-02-01'
+  date_end: '2020-03-01'
   description: |2-
-        Joint practice for general practice, cardiology and radiology where I learned:
+        Joint practice with general practice, cardiology and radiology. I learned:
         * standard examinations, diagnostic and therapy in general practice
         * to deepen my knowledge in ultrasonic
         * perform and interpret cardiological examinations 
-  
+- title: "Hospital internship in surgery and emergency department - 6 weeks"
+  company: "Medical Center Emile Mayrisch"
+  company_url: 'https://www.hopitauxschuman.lu'
+  company_logo: 
+  location: Esch-sur-Alzette, Luxembourg
+  date_start: '2020-08-01'
+  date_end: '2020-09-01'
+  description: |2-
+        Responsibilities include:
+        * Examination and therapy of emergency patients
+        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology, orthopedics and angiology
+        * Assistent in medical round
+
 design:
   columns: '2'
 ---
