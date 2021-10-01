@@ -50,7 +50,19 @@ experience:
   date_start: '2018-08-01'
   date_end: '2018-09-01'
   description: "Gynecology including assistance on C-sections but also other surgery like amputations"
-
+- title: "Internship (Famulatur) at "Cabinet médical" Hesperange"
+  company: "Cabinet médical Hesperange - 4 weeks "
+  company_url: ''
+  company_logo: 
+  location: Hesperange Luxembourg
+  date_start: '2018-08-01'
+  date_end: '2018-09-01'
+  description: |2-
+        Joint practice for general practice, cardiology and radiology where I learned
+        * standard examinations, diagnostic and therapy in general practice
+        * to deepen my knowledge in ultrasonic
+        * perform and interpret cardiological examinations 
+  
 design:
   columns: '2'
 ---
