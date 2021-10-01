@@ -32,7 +32,7 @@ item:
   url: ""
 - date_end: "2019-03-30"
   date_start: "2019-03-01"
-  description: basics in ear accupuncture and its working mechanisms
+  description: "basics in ear accupuncture and its working mechanisms"
   organization: Jan Seeber - HHU
   organization_url: https://www.balancierte-ohrakupunktur.de
   title: "Seeber" Balanced ear accupuncture
@@ -47,7 +47,7 @@ item:
 - date_end: "2019-04-01"
   date_start: "2019-07-01"
   description: "Teamwork workshop. Analysing team players and their characteristics in order to find your personal position in a team"
-  organization: Univ.-Prof. Dr. med. Matthias Schneider  - HHU
+  organization: Univ.-Prof. Dr. med. Matthias Schneider  - UKD
   organization_url: https://www.ukd.de
   title: Communication Training
   url: ""
