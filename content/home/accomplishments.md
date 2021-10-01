@@ -79,13 +79,6 @@ item:
   organization_url: https://www.hhu.de
   title: "Parasitology"
   url: ""
-- date_end: ""
-  date_start: "2018-07-27"
-  description: "First aid techniques"
-  organization: "HHU"
-  organization_url: https://www.hhu.de
-  title: "First aid course"
-  url: ""
 design:
   columns: '2' 
 ---
