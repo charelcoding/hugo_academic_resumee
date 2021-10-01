@@ -60,14 +60,7 @@ item:
   title: "French course B1"
   url: ""
   
-- date_end: "2017-12-30"
-  date_start: ""
-  description: "Sports medicine and doping"
-  organization: "HHU"
-  organization_url: https://www.hhu.de
-  title: "Sports medicine"
-  url: ""   
-  
+
  - date_end: "2018-01-30"
   date_start: ""
   description: "General surgery topics on weekly basis"
