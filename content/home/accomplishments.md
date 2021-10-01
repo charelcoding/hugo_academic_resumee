@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.hhu.de
+#- certificate_url: https://www.hhu.de
   date_end: ""
   date_start: "2021-07-01"
   description: ""
