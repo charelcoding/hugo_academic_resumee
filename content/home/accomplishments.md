@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 #- certificate_url: https://www.hhu.de
   date_end: ""
-  date_start: "2021-07-01"
+  date_start: "2018-07-01"
   description: ""
   organization: Universiätsklinikum Düsseldorf
   organization_url: https://www.hhu.de
