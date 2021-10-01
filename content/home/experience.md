@@ -88,6 +88,18 @@ experience:
         * blood collection and its interpretation 
         * Organize and perform COVID-19 vaccinations on a large scale 
         using my own digital infrastructure
+- title: "Nursing tasks at COVID 19 test center"
+  company: "Apotheke am Oberbilker Markt"
+  company_url: 'www.apotheke-am-oberbilker-markt.de'
+  company_logo: 
+  location: Düsseldorf, Germany
+  date_start: '2021-04-01'
+  date_end: '2021-10-01'
+  description: |2-
+        Learned skills in:
+        * COVID-19 testing
+        * Handling of infectious matierials
+        * Mental care of infected people
 design:
   columns: '2'
 ---
