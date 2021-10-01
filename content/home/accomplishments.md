@@ -25,21 +25,21 @@ date_format: Jan 2006
 item:
 - date_end: "2018-04-01"
   date_start: "2018-07-01"
-  description: ""
+  description: "Ultrasonic techniques and diagnostic procedure for abdominal, vascular, thoracic check up and emergency"
   organization: "Universiätsklinikum Düsseldorf"
   organization_url: https://www.ukd.de
   title: "Ultrasonic Basic Course"
   url: ""
 - date_end: "2019-03-30"
   date_start: "2019-03-01"
-  description: "basics in ear accupuncture and its working mechanisms"
+  description: "Basics in ear accupuncture and its working mechanism"
   organization: "Jan Seeber - HHU"
   organization_url: https://www.balancierte-ohrakupunktur.de
   title: "Seeber Balanced ear accupuncture"
   url: ""
 - date_end: "2019-10-01"
   date_start: "2020-02-01"
-  description: "basic course of Python 3.0 for medical data analysis"
+  description: "Basic course of Python 3.0 for medical data analysis"
   organization: "Dr. Daniel Dörr - HHU"
   organization_url: https://www.hhu.de
   title: "Introduction to Python medical data analysis"
