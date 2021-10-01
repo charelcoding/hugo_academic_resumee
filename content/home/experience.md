@@ -72,8 +72,8 @@ experience:
   description: |2-
         Responsibilities include:
         * Examination and therapy of emergency patients
-        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology,
-        orthopedics, otolaryngology and angiology
+        * Surgery assistent in gynecology, urology, plastic surgery, 
+        gastroentrology, orthopedics, otolaryngology and angiology
         * Assistent in medical round
 - title: "Internship (Famulatur) General practice - 4 weeks"
   company: "Medical practice - Dr. Marina Becker"
