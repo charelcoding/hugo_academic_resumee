@@ -58,7 +58,13 @@ item:
   organization_url: https://www.hhu.de
   title: "Sports medicine"
   url: ""   
-
+- date_end: ""
+  date_start: "2019-01-30"
+  description: "French course for medical use"
+  organization: "HHU"
+  organization_url: https://www.hhu.de
+  title: "French course B1"
+  url: ""
 
 design:
   columns: '2' 
