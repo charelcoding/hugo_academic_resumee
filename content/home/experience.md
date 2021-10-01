@@ -37,11 +37,20 @@ experience:
 - title: "Nursing internship - 6 weeks"
   company: "Tengeru District Hospital "
   company_url: ''
-  company_logo: org-x
+  company_logo: 
   location: Arusha, Tansania
   date_start: '2018-07-01'
   date_end: '2018-08-01'
   description: "Mainly obstetrics and medical check-ups" 
+- title: "Medical internship (Famulatur) - 2 weeks"
+  company: "Tengeru District Hospital "
+  company_url: ''
+  company_logo: 
+  location: Arusha, Tansania
+  date_start: '2018-08-01'
+  date_end: '2018-09-01'
+  description: "Gynecology including assistance on C-sections but also other surgery like amputations"
+
 design:
   columns: '2'
 ---
