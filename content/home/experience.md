@@ -62,9 +62,9 @@ experience:
         * standard examinations, diagnostic and therapy in general practice
         * to deepen my knowledge in ultrasonic
         * perform and interpret cardiological examinations 
-- title: "Hospital internship in surgery and emergency department- Dr. Boulmont - 6 weeks"
-  company: "Medical Center Emile Mayrisch"
-  company_url: 'https://www.hopitauxschuman.lu'
+- title: "Hospital internship in surgery and emergency department - 6 weeks"
+  company: "Dr. Boulmont - Medical Center Emile Mayrisch"
+  company_url: 'https://www.chem.lu'
   company_logo: 
   location: Esch-sur-Alzette, Luxembourg
   date_start: '2020-08-01'
@@ -72,7 +72,8 @@ experience:
   description: |2-
         Responsibilities include:
         * Examination and therapy of emergency patients
-        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology, orthopedics, otolaryngology and angiology
+        * Surgery assistent in gynecology, urology, plastic surgery, gastroentrology,
+        orthopedics, otolaryngology and angiology
         * Assistent in medical round
 - title: "Internship (Famulatur) General practice - 4 weeks"
   company: "Medical practice - Dr. Marina Becker"
@@ -85,7 +86,8 @@ experience:
         Learned skills in:
         * examination and therapy
         * blood collection and its interpretation 
-        * Organize and perform COVID-19 vaccinations on a large scale using my own digital infrastructure
+        * Organize and perform COVID-19 vaccinations on a large scale 
+        using my own digital infrastructure
 design:
   columns: '2'
 ---
