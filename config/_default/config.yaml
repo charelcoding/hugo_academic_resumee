@@ -5,7 +5,7 @@
 
 title: Charel Loos # Website name
 baseurl: 'loos-c.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Charel Loos' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
