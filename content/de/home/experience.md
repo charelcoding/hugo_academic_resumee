@@ -35,13 +35,13 @@ experience:
         * Blutdruckmessung
         * Pflege  
 - title: "Krankenpflegepraktikum - 6 Wochen"
-  company: "Tengeru District Hospital "
+  company: "Tengeru District Hospital"
   company_url: ''
   company_logo: 
   location: Arusha, Tansania
   date_start: '2018-07-01'
   date_end: '2018-08-01'
-  description: "Hauptsächlich Geburtshilfe und körperliche Untersuchungen 
+  description: "Hauptsächlich Geburtshilfe und körperliche Untersuchungen"
 - title: "Famulatur - 2 Wochen"
   company: "Tengeru District Hospital "
   company_url: ''
@@ -52,7 +52,7 @@ experience:
   description: "OP-Assistenz bei Kaiserschnitt, Amputationen und Notfällen"
 - title: "Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
-  company_url: ''
+  company_url: 'https://cmhesper.lu'
   company_logo: 
   location: Hesperange Luxembourg
   date_start: '2020-02-01'
@@ -70,24 +70,22 @@ experience:
   date_start: '2020-08-01'
   date_end: '2020-09-01'
   description: |2-
-        Responsibilities include:
-        * Examination and therapy of emergency patients
-        * Surgery assistent in gynecology, urology, plastic surgery, 
-        gastroentrology, orthopedics, otolaryngology and angiology
-        * Assistent in medical round
-- title: "Internship (Famulatur) General practice - 4 weeks"
-  company: "Medical practice - Dr. Marina Becker"
+        Tätigkeiten:
+        * Untersuchung und Therapie von Notfällen
+        * OP-Assistenz in Gynäkologie, Urologie, Orthopädie, Gastroenterologie, HNO, Angiologie und plastische Chirurgie
+        * Begleitung von der täglichen Visite
+- title: "Hausarztfamulatur - 4 Wochen"
+  company: "Allgemeinmedizin - Dr. Marina Becker"
   company_url: ''
   company_logo: 
   location: Düsseldorf, Germany
   date_start: '2021-03-01'
   date_end: '2021-04-01'
   description: |2-
-        Learned skills in:
-        * examination and therapy
-        * blood collection and its interpretation 
-        * Organize and perform COVID-19 vaccinations on a large scale 
-        using my own digital infrastructure
+        Tätigkeiten:
+        * Untersuchung und Therapie
+        * Blutabnahme und die Befundinterpretation 
+        * Digitale Organisation und Durchführung von COVID19 Impfung und deren Durchführung mit eigner digitaler Infrastruktur
 - title: "Nursing tasks at COVID 19 test center"
   company: "Apotheke am Oberbilker Markt"
   company_url: 'www.apotheke-am-oberbilker-markt.de'
