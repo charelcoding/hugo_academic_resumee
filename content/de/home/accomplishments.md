@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Courses'
+title: 'Kurse'
 subtitle:
 
 # Date format
@@ -25,80 +25,80 @@ date_format: Jan 2006
 item:
 - date_end: "2018-04-01"
   date_start: "2018-07-01"
-  description: "Ultrasonic techniques and diagnostic procedure for abdominal, vascular, thoracic check up and emergency"
-  organization: "Universiätsklinikum Düsseldorf"
+  description: "Ultraschall Grundkurs nach Hofer mit Fokus auf das Abdomen, das vaskuläre System und den Thorax"
+  organization: "Universitätsklinikum Düsseldorf"
   organization_url: https://www.ukd.de
-  title: "Ultrasonic Basic Course"
+  title: "Ultraschall Grundkurs"
   url: ""
 - date_end: "2019-03-30"
   date_start: "2019-03-01"
-  description: "Basics in ear accupuncture and its working mechanism"
+  description: "Einblicke in die TCM sowie theoretische und praktische Ohrakupunktur"
   organization: "Jan Seeber - HHU"
   organization_url: https://www.balancierte-ohrakupunktur.de
-  title: "Seeber Balanced ear accupuncture"
+  title: "Balancierte Ohrakupunktur nach Seeber"
   url: ""
 - date_end: "2020-10-01"
   date_start: "2021-02-01"
-  description: "Basic course of Python 3.0 for medical data analysis"
+  description: "Basiskurs für Python 3.0 mit Fokus auf die medizinische Datenanalyse"
   organization: "Dr. Daniel Dörr - HHU"
   organization_url: https://www.hhu.de
   title: "Introduction to Python medical data analysis"
   url: ""
 - date_end: "2019-04-01"
   date_start: "2019-07-01"
-  description: "Teamwork workshop. Analysing team players and their characteristics in order to       find your personal position in a team"
+  description: "Teamwork Workshop zur Selbstanalyse und Charakterisierung der verschiedenen Teamplayer zur Verbesserung der Zusammenarbeit"
   organization: "Univ.-Prof. Dr. med. Matthias Schneider  - UKD"
   organization_url: https://www.ukd.de
-  title: "Communication Coaching for medical students"
+  title: "Kommunikationscoaching"
   url: ""
 - date_end: ""
   date_start: "2017-12-30"
-  description: "Sports medicine and doping"
+  description: "Sportmedizin, Leistungsmedizin und Doping"
   organization: "HHU"
   organization_url: https://www.hhu.de
-  title: "Sports medicine"
+  title: "Sportmedizin"
   url: ""   
 - date_end: ""
   date_start: "2018-01-30"
-  description: "General surgery topics on weekly basis"
+  description: "Allgemeinchirurgie und OP-Techniken"
   organization: "HHU"
   organization_url: https://www.hhu.de
-  title: "General surgery"
+  title: "Allgemeinchirurgie"
   url: ""
 - date_end: ""
   date_start: "2021-02-25"
-  description: "Therapy, diagnosis and surgery in Dermatology"
-  organization: "UKD - Dermatology"
+  description: "Therapie, Diagnose und OPs in der Dermatologie"
+  organization: "UKD - Dermatologie"
   organization_url: http://www.ukd.de/
-  title: "Dermatology"
+  title: "Dermatologie"
   url: ""
 - date_end: ""
   date_start: "2018-07-27"
-  description: "First aid techniques"
+  description: "Erste Hilfe Kurs. Praktische Übungen der Herz-Lungenmassage"
   organization: "Malteser"
   organization_url: https://www.malteser.de
-  title: "First aid course"
+  title: "Erste Hilfe Kurs"
   url: ""
 - date_end: ""
   date_start: "2021-03-01"
-  description: "Surgery, diagnosis and therapy in oral maxillofacial surgery (in German:MKG)"
+  description: "OP-Assistenz, Diagnose und Therapie in der MKG."
   organization: "Prof. Dr. Dr. med. dent. Jörg Handschel"
   organization_url: http://www.klinikamkaiserteich.de/
-  title: "Oral Maxillofacial surgery"
+  title: "Mund-Kiefer-Gesichtschirurgie"
   url: ""
 - date_end: ""
   date_start: "2020-02-01"
-  description: "Parasitology in Germany and around the globe with a historical and modern view"
+  description: "Parasitologische Krankheitsbilder in der modernen Welt und Deutschland."
   organization: "HHU"
   organization_url: https://www.hhu.de
-  title: "Parasitology"
+  title: "Parasitologie"
   url: ""
 - date_end: ""
   date_start: "2019-02-01"
-  description: "French course for medical use"
+  description: "Französisch für Mediziner und Fachtermini"
   organization: "HHU"
   organization_url: https://www.hhu.de
-  title: "French course B1"
+  title: "Französisch für Mediziner"
   url: ""
 design:
   columns: '2' 
