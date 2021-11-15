@@ -100,6 +100,13 @@ item:
   organization_url: https://www.hhu.de
   title: "French course B1"
   url: ""
+- date_end: "2021-11-12"
+  date_start: "2021-11-08"
+  description: "Lab Animal Science on rats and mice. *EU Tätigkeit A* or *FELASA B*"
+  organization: "Heinrich-Heine-Universität Düsseldorf"
+  organization_url: https://www.hhu.de
+  title: "Lab Animal Science"
+  url: ""
 design:
   columns: '2' 
 ---

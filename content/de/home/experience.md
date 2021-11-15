@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Klinische Erfahrung
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: "Nursing Internship - 6 weeks"
+- title: "Krankenpflegepraktikum - 6 Wochen"
   company: "Hôpitaux Robert Schuman Kirchberg"
   company_url: 'https://www.hopitauxschuman.lu'
   company_logo: 
@@ -30,27 +30,27 @@ experience:
   date_start: '2016-07-01'
   date_end: '2016-08-01'
   description: |2-
-        Responsibilities include:
-        * Emergencies 
-        * Blood pressure control
-        * Patients care  
-- title: "Nursing internship - 6 weeks"
+        Tätigkeiten:
+        * Notfälle betreuen 
+        * Blutdruckmessung
+        * Pflege  
+- title: "Krankenpflegepraktikum - 6 Wochen"
   company: "Tengeru District Hospital "
   company_url: ''
   company_logo: 
   location: Arusha, Tansania
   date_start: '2018-07-01'
   date_end: '2018-08-01'
-  description: "Mainly obstetrics and medical check-ups" 
-- title: "Medical internship (Famulatur) - 2 weeks"
+  description: "Hauptsächlich Geburtshilfe und körperliche Untersuchungen 
+- title: "Famulatur - 2 Wochen"
   company: "Tengeru District Hospital "
   company_url: ''
   company_logo: 
   location: Arusha, Tansania
   date_start: '2018-08-01'
   date_end: '2018-09-01'
-  description: "Gynecology including assistance on C-sections but also other surgery like amputations"
-- title: "Internship (Famulatur) - 4 weeks"
+  description: "OP-Assistenz bei Kaiserschnitt, Amputationen und Notfällen"
+- title: "Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
   company_url: ''
   company_logo: 
@@ -58,11 +58,11 @@ experience:
   date_start: '2020-02-01'
   date_end: '2020-03-01'
   description: |2-
-        Joint practice with general practice, cardiology and radiology. I learned:
-        * standard examinations, diagnostic and therapy in general practice
-        * to deepen my knowledge in ultrasonic
-        * perform and interpret cardiological examinations 
-- title: "Hospital internship in surgery and emergency department - 6 weeks"
+        Gemeinschaftspraxis mit Allgemeinmedizin, Radiologie, Neurologie und Kardiologie. Tätigkeiten:
+        * Standard Untersuchungen, Anamnese und Therapie in der Allgemeinmedizin
+        * Vertiefung meiner Ultraschallkentnisse
+        * Durchführung und Interpretation von EKGs
+- title: "Krankenhausfamulatur in der Notaufnahme und OP - 6 Wochen"
   company: "Dr. Boulmont - Medical Center Emile Mayrisch"
   company_url: 'https://www.chem.lu'
   company_logo: 

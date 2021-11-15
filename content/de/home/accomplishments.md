@@ -100,6 +100,13 @@ item:
   organization_url: https://www.hhu.de
   title: "Französisch für Mediziner"
   url: ""
+- date_end: "2021-11-12"
+  date_start: "2021-11-08"
+  description: "Versuchstierkunde (Maus/Ratte) EU Tätigkeit A (FELASA B)"
+  organization: "Heinrich-Heine-Universität Düsseldorf"
+  organization_url: https://www.hhu.de
+  title: "Tierversuchsschein"
+  url: ""
 design:
   columns: '2' 
 ---
