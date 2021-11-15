@@ -58,12 +58,12 @@ experience:
   description: "<<Centre de soin avancé>> war ein Gesundheitszentrum zur Bekämpfung der Corona Pandemie. Testung und Umgang mit Corona-infizierten und das Respektieren der vorgeschriebenen Sicherheitsmaßnahmen"
 
 - title: "Vollzeitdoktorandenstelle in der Neurologie"
-  company: "Universitätsklinikum Düsseldorf "
-  company_url: ''
+  company: "Universitätsklinikum Düsseldorf"
+  company_url: 'www.ukd.de'
   company_logo: 
-  location: Arusha, Tansania
-  date_start: '2018-08-01'
-  date_end: '2018-09-01'
+  location: Düsseldorf, Deutschland
+  date_start: '2021-05-01'
+  date_end: '2021-10-01'
   description: |2-
         Experimentelle Doktorarbeit an MS. Tätigkeiten:
         * Tierversuche und Probenentnahme
