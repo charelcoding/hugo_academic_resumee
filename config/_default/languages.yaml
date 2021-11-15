@@ -9,14 +9,14 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+de:
+  languageCode: de
+  contentDir: content/de
+  title: Charel Loos
+  params:
+    description: Hier finden Sie alles auf Deutsch
+  menu:
+    main:
+      - name: Deutsch
+        url: '#about'
+        weight: 1
