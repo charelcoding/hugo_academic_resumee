@@ -32,10 +32,10 @@ experience:
   description: |2-
         Experimentelle Doktorarbeit an MS. Tätigkeiten:
         * Tierversuche und Probenentnahme
-        * Immunhistochemische Färbungen der Retina und fokale
-Mikroskopie
+        * Immunhistochemische Färbungen der Retina und fokale 
+        Mikroskopie
         * Etablierung eines künstlicher Intelligenz-Algorithmus zur 
-Analyse von den Aufnahmen und OCT Bildern aus der Arbeitsgruppe
+        Analyse von den Aufnahmen und OCT Bildern aus der Arbeitsgruppe
 
 - title: "COVID 19 Testzentrum"
   company: "Apotheke am Oberbilker Markt"
