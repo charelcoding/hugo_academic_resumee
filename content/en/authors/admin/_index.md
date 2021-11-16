@@ -22,7 +22,7 @@ interests:
 - Radiology
 - Public Health
 - Neurology
-- 
+
 # Education to show in About widget
 education:
   courses:
@@ -67,6 +67,12 @@ highlight_name: true
 
 I am a medical student from Luxembourg studying in Düsseldorf, Germany. I am currently in 5th year of my studies, shortly before entering the practical year(PJ) in May 2022.
 
-I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images,  made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results by the end of November.
+I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images,  made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results soon.
+
+In my free time I make a lot of music, I play guitar, piano and I sing. I also like to tinker and create small projects with the help of my 3D printer. I am a very open-minded and outgoing person and love to discover new people, cultures and places.
+
+I dream of founding a start-up that combines new technologies like AI with the latest state of the art medicine. The goal would be to provide better healthcare for the patient and make the doctor's job easier with the help of automatic documentation and individual therapy suggestions.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

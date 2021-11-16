@@ -69,5 +69,8 @@ Ich bin ein Humanmedizinstudent aus Luxemburg und studiere in Düsseldorf, Deuts
 
 Im Sommer 2021 habe ich ein Urlaubssemester genommen, um zu forschen und meine Doktorarbeit zu schreiben. Ich habe mich für das Thema Neurologie entschieden, weil das Gehirn einfach faszinierend ist. Parallel dazu habe ich angefangen, mir eigenständig das Programmieren in Python beizubringen. Diese Kenntnisse nutzte ich, um einen neuen Algorithmus für maschinelles Lernen zu implementieren, der histologische Bilder analysiert, die mit konfokaler Mikroskopie aufgenommen wurden. Es ist mir gelungen, Mikrogliazellen im Netzhautgewebe der sogenannten ERE-Mäuse, einem experimentellen Modell für Multiple Sklerose, zu quantifizieren. Ich plane, meine Ergebnisse demnächst zu veröffentlichen.
 
+In meiner Freizeit mache ich viel Musik, ich spiele Gitarre, Klavier und ich singe. Ich mag es auch zu tüfteln und mithilfe meines 3D Druckers kleine Projekte zu kreieren. Ich bin ein sehr aufgeschlossener und offener Mensch und liebe es neue Menschen, Kulturen und Orte zu entdecken.
+
+Ich träume davon ein Start-Up zu gründen, das neue Technologien wie KI mit der aktuellsten Schulmedizin verbindet. Das Ziel wäre eine bessere Gesundheitsversorgung für den Patienten und die Arbeitserleichterung für den Arzt mithilfe von maschineller Dokumentation und individuellen Therapievorschlägen.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
