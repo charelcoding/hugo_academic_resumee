@@ -22,13 +22,13 @@ twitter: ''
 
 email: charelloos@gmail.com
 #phone: +352 661290196
-address:
-  street: Kruppstr. 40 
-  city: Düsseldorf
-  region: NRW
-  postcode: '40224'
-  country: Germany
-  country_code: GER
+#address:
+#  street: Kruppstr. 40 
+#  city: Düsseldorf
+#  region: NRW
+#  postcode: '40224'
+#  country: Germany
+#  country_code: GER
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
@@ -147,7 +147,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'eM0ZMo3q58hka52jTptf4QCrPxYiwUo2zCuTA9AJ8ek'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
