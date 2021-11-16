@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Beruflicher Werdegang
-subtitle:
+subtitle: Krankpflegepraktika & Famulaturen & Medizinische Hilfskraft
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -35,7 +35,7 @@ experience:
         * Immunhistochemische Färbungen der Retina und fokale
 Mikroskopie
         * Etablierung eines künstlicher Intelligenz-Algorithmus zur 
-Analyse von den Aufnahmen und OCT Bildern aus der Arbeitsgruppe.
+Analyse von den Aufnahmen und OCT Bildern aus der Arbeitsgruppe
 
 - title: "COVID 19 Testzentrum"
   company: "Apotheke am Oberbilker Markt"
