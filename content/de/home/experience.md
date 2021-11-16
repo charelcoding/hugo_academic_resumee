@@ -46,7 +46,7 @@ experience:
         Tätigkeiten:
         * Untersuchung und Therapie von Notfällen
         * OP-Assistenz in Gynäkologie, Urologie, Orthopädie, 
-        Gastroenterologie, HNO, Angiologie und plastische Chirurgie
+        Gastroenterologie, HNO, Angiologie und plastischer Chirurgie
         * Begleitung von der täglichen Visite
 - title: "Stationäre Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
