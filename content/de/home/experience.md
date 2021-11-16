@@ -34,7 +34,7 @@ experience:
         * Untersuchung und Therapie
         * Blutabnahme und die Befundinterpretation 
         * Digitale Organisation und Durchführung von COVID19 Impfung 
-und deren Durchführung mit eigner digitaler Infrastruktur
+        und deren Durchführung mit eigner digitaler Infrastruktur
 - title: "Krankenhausfamulatur in der Notaufnahme und OP - 6 Wochen"
   company: "Dr. Boulmont - Medical Center Emile Mayrisch"
   company_url: 'https://www.chem.lu'
@@ -46,7 +46,7 @@ und deren Durchführung mit eigner digitaler Infrastruktur
         Tätigkeiten:
         * Untersuchung und Therapie von Notfällen
         * OP-Assistenz in Gynäkologie, Urologie, Orthopädie, 
-Gastroenterologie, HNO, Angiologie und plastische Chirurgie
+        Gastroenterologie, HNO, Angiologie und plastische Chirurgie
         * Begleitung von der täglichen Visite
 - title: "Stationäre Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
@@ -57,9 +57,9 @@ Gastroenterologie, HNO, Angiologie und plastische Chirurgie
   date_end: '2020-03-01'
   description: |2-
         Gemeinschaftspraxis mit Allgemeinmedizin, Radiologie, 
-Neurologie und Kardiologie. Tätigkeiten:
+        Neurologie und Kardiologie. Tätigkeiten:
         * Standard Untersuchungen, Anamnese und Therapie 
-in der Allgemeinmedizin
+        in der Allgemeinmedizin
         * Vertiefung meiner Ultraschallkentnisse
         * Durchführung und Interpretation von EKGs
 - title: "Famulatur - 2 Wochen"
