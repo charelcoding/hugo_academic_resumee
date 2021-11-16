@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Klinische Erfahrung
-subtitle:
+subtitle: Stationär & ambulant
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,9 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- 
-
-
 - title: "Hausarztfamulatur - 4 Wochen"
   company: "Allgemeinmedizin - Dr. Marina Becker"
   company_url: ''
@@ -38,7 +35,6 @@ experience:
         * Blutabnahme und die Befundinterpretation 
         * Digitale Organisation und Durchführung von COVID19 Impfung 
 und deren Durchführung mit eigner digitaler Infrastruktur
-
 - title: "Krankenhausfamulatur in der Notaufnahme und OP - 6 Wochen"
   company: "Dr. Boulmont - Medical Center Emile Mayrisch"
   company_url: 'https://www.chem.lu'
@@ -52,7 +48,6 @@ und deren Durchführung mit eigner digitaler Infrastruktur
         * OP-Assistenz in Gynäkologie, Urologie, Orthopädie, 
 Gastroenterologie, HNO, Angiologie und plastische Chirurgie
         * Begleitung von der täglichen Visite
-
 - title: "Stationäre Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
   company_url: 'https://cmhesper.lu'
@@ -67,16 +62,14 @@ Neurologie und Kardiologie. Tätigkeiten:
 in der Allgemeinmedizin
         * Vertiefung meiner Ultraschallkentnisse
         * Durchführung und Interpretation von EKGs
-
 - title: "Famulatur - 2 Wochen"
-  company: "Tengeru District Hospital "
+  company: "Tengeru District Hospital"
   company_url: ''
   company_logo: 
   location: Arusha, Tansania
   date_start: '2018-08-01'
   date_end: '2018-09-01'
   description: "OP-Assistenz bei Kaiserschnitt, Amputationen und Notfällen"
-
 - title: "Krankenpflegepraktikum - 6 Wochen"
   company: "Tengeru District Hospital"
   company_url: ''
@@ -85,7 +78,6 @@ in der Allgemeinmedizin
   date_start: '2018-07-01'
   date_end: '2018-08-01'
   description: "Hauptsächlich Geburtshilfe und körperliche Untersuchungen"
-
 - title: "Krankenpflegepraktikum - 6 Wochen"
   company: "Hôpitaux Robert Schuman Kirchberg"
   company_url: 'https://www.hopitauxschuman.lu'
