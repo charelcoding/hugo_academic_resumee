@@ -23,6 +23,12 @@ interests:
 - Prävention
 - Neurologie 
 
+Skills:
+- Künstliche Intelligenz
+- Radiologie
+- Prävention
+- Neurologie 
+
 # Education to show in About widget
 education:
   courses:
