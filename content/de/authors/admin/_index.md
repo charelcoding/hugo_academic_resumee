@@ -6,7 +6,7 @@ title: Charel Loos
 superuser: true
 
 # Role/position/tagline
-role: Medical student at
+role: Medizinstudent
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,25 +14,25 @@ organizations:
   url: https://www.hhu.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fascinated in science, medical technologies, radiology and coding.
+bio: Fasziniert von Wissenschaft, Medizintechnik, Radiologie und Programmierung.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Radiology
-- Public Health
-- Neurology
-- 
+- Künstliche Intelligenz
+- Radiologie
+- Prävention
+- Neurologie 
+
 # Education to show in About widget
 education:
   courses:
-    - course: High school diploma with focus on math/biology/physics
+    - course: Abitur mit Fokus auf Math/Biologie/Physik
       institution: Lycée Michel Rodange Luxembourg
       year: 2015
     - course: Bachelor's degree in life sciences
       institution: University of Luxembourg
       year: 2016
-    - course: Medical studies, currently in 11th semester
+    - course: Humanmedizinstudium aktuell im 11. Semester
       institution: Heinrich-Heine-Universität Düsseldorf
       year: 2023
 
@@ -65,8 +65,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a medical student from Luxembourg studying in Düsseldorf, Germany. I am currently in 5th year of my studies, shortly before entering the practical year(PJ) in May 2022.
+Ich bin ein Humanmedizinstudent aus Luxemburg und studiere in Düsseldorf, Deutschland. Ich befinde mich derzeit im 5. Jahr meines Studiums, kurz vor dem Eintritt in das Praktische Jahr (PJ) im Mai 2022.
 
-I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images,  made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results by the end of November.
+Im Sommer 2021 habe ich ein Urlaubssemester genommen, um zu forschen und meine Doktorarbeit zu schreiben. Ich habe mich für das Thema Neurologie entschieden, weil das Gehirn einfach faszinierend ist. Parallel dazu habe ich angefangen, mir eigenständig das Programmieren in Python beizubringen. Diese Kenntnisse nutzte ich, um einen neuen Algorithmus für maschinelles Lernen zu implementieren, der histologische Bilder analysiert, die mit konfokaler Mikroskopie aufgenommen wurden. Es ist mir gelungen, Mikrogliazellen im Netzhautgewebe der sogenannten ERE-Mäuse, einem experimentellen Modell für Multiple Sklerose, zu quantifizieren. Ich plane, meine Ergebnisse demnächst zu veröffentlichen.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
