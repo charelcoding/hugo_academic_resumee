@@ -72,6 +72,6 @@ Im Sommer 2021 habe ich ein Urlaubssemester genommen, um zu forschen und meine D
 
 In meiner Freizeit mache ich viel Musik, spiele Gitarre, Klavier und singe. Ich mag auch zu tüfteln und mithilfe meines 3D Druckers kleine Projekte zu kreieren. Ich bin ein aufgeschlossener, offener Mensch und liebe neue Menschen, Kulturen und Orte kennenzulernen und zu entdecken.
 
-Ich träume davon ein Start-Up zu gründen, das neue Technologien, wie die KI, mit der aktuellsten Schulmedizin zu verbinden. Das Ziel ist eine bessere Gesundheitsversorgung für den Patienten und die Arbeitserleichterung für den Arzt mithilfe von maschineller Dokumentation und individuellen Therapievorschlägen.
+Ich träume davon ein Start-Up zu gründen, das neue Technologien, wie die KI, mit der aktuellsten Schulmedizin verbindet. Das Ziel ist eine bessere Gesundheitsversorgung für den Patienten und die Arbeitserleichterung für den Arzt mithilfe von maschineller Dokumentation und individuellen Therapievorschlägen.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
