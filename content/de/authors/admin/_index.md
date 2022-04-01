@@ -86,4 +86,4 @@ In meiner Freizeit mache ich viel Musik, spiele Gitarre, Klavier und singe. Ich 
 
 Ich träume davon ein Start-Up zu gründen, das neue Technologien, wie die KI, mit der aktuellsten Schulmedizin verbindet. Das Ziel ist eine bessere Gesundheitsversorgung für PatientInnen und eine Arbeitserleichterung für ÄrztInnen, die mithilfe von maschineller Dokumentation, individuellen Therapievorschlägen und leitlinientreuem Procedere erreicht werden können. Auf dem Weg zur individuellen Medizin, müssen wir alle technischen und akademischen Ressourcen nutzen, um auch Prävention zu individualisieren, denn dort liegt der Schlüssel zu einem langen, glücklichen und gesunden Leben.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#### {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
