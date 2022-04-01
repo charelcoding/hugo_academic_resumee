@@ -35,7 +35,7 @@ experience:
         * Blutabnahme und die Befundinterpretation 
         * Digitale Organisation und Durchführung von COVID19 Impfung 
         und deren Durchführung mit eigner digitaler Infrastruktur
-- title: "Krankenhausfamulatur in der Notaufnahme und OP - 6 Wochen"
+- title: "Stationäre Famulatur in der Notaufnahme und im OP - 6 Wochen"
   company: "Dr. Boulmont - Medical Center Emile Mayrisch"
   company_url: 'https://www.chem.lu'
   company_logo: 
@@ -48,7 +48,7 @@ experience:
         * OP-Assistenz in Gynäkologie, Urologie, Orthopädie, 
         Gastroenterologie, HNO, Angiologie und plastischer Chirurgie
         * Begleitung von der täglichen Visite
-- title: "Stationäre Famulatur - 4 Wochen"
+- title: "Ambulante Famulatur - 4 Wochen"
   company: "Cabinet médical Hesperange - Dr. Pascane Schanen"
   company_url: 'https://cmhesper.lu'
   company_logo: 
@@ -62,7 +62,7 @@ experience:
         in der Allgemeinmedizin
         * Vertiefung meiner Ultraschallkentnisse
         * Durchführung und Interpretation von EKGs
-- title: "Famulatur - 2 Wochen"
+- title: "Stationäre Famulatur - 2 Wochen"
   company: "Tengeru District Hospital"
   company_url: ''
   company_logo: 
