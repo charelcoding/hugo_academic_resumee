@@ -30,7 +30,7 @@ education:
     - course: Abitur mit Fokus auf Math/Biologie/Physik
       institution: Lycée Michel Rodange Luxembourg
       year: 2015
-    - course: Bachelor's degree in life sciences
+    - course: Bachelor's degree in medical sciences
       institution: University of Luxembourg
       year: 2016
     - course: Humanmedizinstudium aktuell im 11. Semester
