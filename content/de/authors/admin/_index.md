@@ -36,19 +36,18 @@ education:
     - course: Humanmedizinstudium aktuell im 11. Semester
       institution: Heinrich-Heine-Universität Düsseldorf
       year: 2023
-
-education:
-  courses:
     - course: Deutsch C1
       institution: Lycée Michel Rodange Luxembourg
       year: 2015
     - course: Französisch C1
       institution: Lycée Michel Rodange Luxembourg
       year: 2015
-    - course: Humanmedizinstudium aktuell im 11. Semester
-      institution: Heinrich-Heine-Universität Düsseldorf
-      year: 2023
-
+    - course: Englisch B2
+      institution: Lycée Michel Rodange Luxembourg
+      year: 2015
+    - course: Luxemburgisch C2
+      institution: Lycée Michel Rodange Luxembourg
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
