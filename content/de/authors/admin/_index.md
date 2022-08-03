@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Abitur mit Fokus auf Math/Biologie/Physik
-      institution: Lycée Michel Rodange Luxembourg
-      year: 2015
-    - course: Bachelor's degree in medical sciences
-      institution: University of Luxembourg
-      year: 2016
     - course: Humanmedizinstudium aktuell im 11. Semester
       institution: Heinrich-Heine-Universität Düsseldorf
       year: 2023
+    - course: Bachelor's degree in medical sciences
+      institution: University of Luxembourg
+      year: 2016
+    - course: Abitur mit Fokus auf Math/Biologie/Physik
+      institution: Lycée Michel Rodange Luxembourg
+      year: 2015
     - course: Deutsch C1
       institution: Lycée Michel Rodange Luxembourg
       year: 2015
