@@ -27,8 +27,8 @@ experience:
   company_url: 'https://www.ikim.uk-essen.de'
   company_logo: 
   location: Essen, Deutschland
-  date_start: '2021-05-01'
-  date_end: '2021-10-01'
+  date_start: '2022-05-01'
+  date_end: '2022-10-01'
   description: |2-
         Experimentelle Doktorarbeit an MS. Tätigkeiten:
         * Tierversuche und Probenentnahme
