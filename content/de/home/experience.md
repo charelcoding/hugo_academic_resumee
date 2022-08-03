@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: "PJ Tertial 1 - Radiologie im UK Essen"
+  company: "Prof. Dr. Michael Forsting"
+  company_url: 'https://radiologie.uk-essen.de'
+  company_logo: 
+  location: Essen, Deutschland
+  date_start: '2020-05-16'
+  date_end: '2020-09-04'
+  description: |2-
+        Tätigkeiten:
+        * Befundung von konventionellem Röntgen, CT, MRT und Sonographie
+        * Assistenz bei CT gesteuerter Punktion
+  
 - title: "Hausarztfamulatur - 4 Wochen"
   company: "Allgemeinmedizin - Dr. Marina Becker"
   company_url: ''
