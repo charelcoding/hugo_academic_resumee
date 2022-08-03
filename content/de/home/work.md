@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: "Frakturerkennung im CT mit Künstlicher Intelligenz"
+  company: "IKIM - Institut für künstliche Intelligenz in der Medizin"
+  company_url: 'https://www.ikim.uk-essen.de'
+  company_logo: 
+  location: Essen, Deutschland
+  date_start: '2021-05-01'
+  date_end: '2021-10-01'
+  description: |2-
+        Experimentelle Doktorarbeit an MS. Tätigkeiten:
+        * Tierversuche und Probenentnahme
+        * Immunhistochemische Färbungen der Retina und fokale 
+        Mikroskopie
+        * Etablierung eines künstlicher Intelligenz-Algorithmus zur 
+        Analyse von den Aufnahmen und OCT Bildern aus der Arbeitsgruppe
+
 - title: "Vollzeitdoktorandenstelle in der Neurologie"
   company: "Universitätsklinikum Düsseldorf"
   company_url: 'www.ukd.de'
